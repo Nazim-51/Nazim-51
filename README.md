@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nazim Uddin</h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazim-51&label=Profile%20views&color=0e75b6&style=flat" alt="nazim-51" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazim-51" alt="nazim-51" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@nazim_51" target="blank"><img src="https://img.shields.io/twitter/follow/@nazim_51?logo=twitter&style=for-the-badge" alt="@nazim_51" /></a> </p>
+
+- 💬 Ask me about **Html,CSS,React,Js**
+
+- 📫 How to reach me **nazimstudent20302@gmail.com**
+
+- ⚡ Fun fact **Professional bug creator, part-time bug fixer. 🐛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@nazim_51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nazim_51" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
